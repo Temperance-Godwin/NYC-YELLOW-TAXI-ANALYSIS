@@ -43,7 +43,7 @@ Single-passenger trips dominated card payment transactions, making up 40.08% of 
 
 *Using a T-statistic of 165.5 and a p-value below 0.05, we reject the null hypothesis. This outcome indicates a statistically significant difference in fare amounts between the two payment methods.*
 
-## RECOMENDATION
+## RECOMMENDATION
 1. Promote the use of credit cards to help drivers earn more per trip by:
 - Displaying in-app prompts or messages during the booking process that highlight the benefits of using card payments, such as faster checkouts or contactless convenience.
 - Equiping drivers with small signs or digital displays inside the vehicle encouraging card payments.
@@ -70,6 +70,6 @@ Single-passenger trips dominated card payment transactions, making up 40.08% of 
 
 ![Thank you](https://github.com/Temperance-Godwin/Forbes-world-billionaires-2022/assets/156975460/f6563ba6-1ad6-4d34-a3f3-8e7fbdf654df)
 
-
+## Thank you for following through.
 
 
