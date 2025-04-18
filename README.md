@@ -13,6 +13,7 @@ In the competitive world of taxi bookings, increasing revenue is crucial for bot
 The primary aim of this project is to conduct an A/B test to assess whether there's a meaningful difference in fare amounts based on the customer's payment method. By using Python for statistical hypothesis testing and descriptive analytics, we aim to uncover trends that can help drivers optimize their income. Specifically, the focus is on comparing credit card payments to cash payments to determine if one consistently results in higher fares.
 
 ## DATA SOURCE
+Kaggle: Check data ![here](https://www.kaggle.com/datasets/elemento/nyc-yellow-taxi-trip-data)
 
 ## DATA OVERVIEW
 This analysis draws on a robust dataset from the New York City Taxi and Limousine Commission, containing detailed records of taxi trips. After applying data cleaning techniques and performing feature engineering, we isolated the essential variables needed for this investigation, including fare amount, payment type, trip duration, and passenger count.
