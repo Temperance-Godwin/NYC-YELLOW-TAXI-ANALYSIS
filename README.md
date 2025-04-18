@@ -25,7 +25,7 @@ This analysis draws on a robust dataset from the New York City Taxi and Limousin
 
 **Regression Analysis:** Applied linear regression to examine the correlation between trip duration (derived from pickup and drop-off times) and fare amount.
 
-View code ![here](https://github.com/Temperance-Godwin/NYC-YELLOW-TAXI-ANALYSIS/blob/main/EDA.ipynb)
+View code ![here](https://www.kaggle.com/datasets/elemento/nyc-yellow-taxi-trip-data)
 ## KEY INSIGHTS
 1. Trip and Fare Trends by Payment Type
 Customers who paid using credit cards typically had longer trips and higher fares than those who paid in cash. This may suggest a tendency for riders to opt for card payments when taking longer or more expensive trips.
