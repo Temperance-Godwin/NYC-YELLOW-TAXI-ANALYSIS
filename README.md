@@ -23,6 +23,7 @@ This analysis draws on a robust dataset from the New York City Taxi and Limousin
 
 **Regression Analysis:** Applied linear regression to examine the correlation between trip duration (derived from pickup and drop-off times) and fare amount.
 
+View code ![here](eda.ipynb)
 ## KEY INSIGHTS
 1. Trip and Fare Trends by Payment Type
 Customers who paid using credit cards typically had longer trips and higher fares than those who paid in cash. This may suggest a tendency for riders to opt for card payments when taking longer or more expensive trips.
@@ -66,6 +67,7 @@ Single-passenger trips dominated card payment transactions, making up 40.08% of 
 - Collecting feedback from both drivers and riders to refine the strategies.
 - Using periodic A/B tests to validate whether new tactics effectively increase card usage without compromising customer experience.
 
+![Thank you](https://github.com/Temperance-Godwin/Forbes-world-billionaires-2022/assets/156975460/f6563ba6-1ad6-4d34-a3f3-8e7fbdf654df)
 
 
 
