@@ -1,4 +1,5 @@
 ## INTRODUCTION
+![Intro](https://github.com/Temperance-Godwin/NYC-YELLOW-TAXI-ANALYSIS/blob/main/intro.jpg)
 In today’s competitive ride-hailing landscape, leveraging data to boost operational efficiency and revenue has become increasingly important. Taxi services, especially in bustling cities like New York, must continuously explore strategies that enhance driver income while preserving a smooth and satisfying experience for passengers. One often overlooked yet potentially impactful factor is the method of payment used by customers. Understanding how payment choices affect fare values and customer behaviors could help taxi operators make informed decisions that benefit both drivers and riders. This study dives into the dynamics between payment types and fare amounts, aiming to uncover actionable insights through data analysis and hypothesis testing.
 
 ## PROBLEM STATEMENT
