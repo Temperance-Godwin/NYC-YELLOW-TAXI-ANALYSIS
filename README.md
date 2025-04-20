@@ -43,7 +43,7 @@ Single-passenger trips dominated card payment transactions, making up 40.08% of 
 
 **Alternative Hypothesis (H₁):** There is a significant difference in average fare between card and cash transactions.
 
-*Using a T-statistic of 165.5 and a p-value below 0.05, we reject the null hypothesis. This outcome indicates a statistically significant difference in fare amounts between the two payment methods.*
+*Using a T-statistic of 169.21 and a p-value below 0.05, we reject the null hypothesis. This outcome indicates a statistically significant difference in fare amounts between the two payment methods.*
 
 ## RECOMMENDATIONS
 1. Promote the use of credit cards to help drivers earn more per trip by:
