@@ -28,13 +28,22 @@ This analysis draws on a robust dataset from the New York City Taxi and Limousin
 View code [here](https://github.com/Temperance-Godwin/NYC-YELLOW-TAXI ANALYSIS/blob/main/NYC%20Yellow%20Taxi%20Analysis.ipynb)
 
 ## KEY INSIGHTS
+
 1. Trip and Fare Trends by Payment Type
 Customers who paid using credit cards typically had longer trips and higher fares than those who paid in cash. This may suggest a tendency for riders to opt for card payments when taking longer or more expensive trips.
 
+**Distribution of fare amount**
+![Distribution](https://github.com/Temperance-Godwin/NYC-YELLOW-TAXI-ANALYSIS/blob/main/Distribution%20of%20fare%20amount.png)
+
+**Distribution of trip distance**
+![distance](https://github.com/Temperance-Godwin/NYC-YELLOW-TAXI-ANALYSIS/blob/main/Distribution%20of%20trip%20distance.png)
+
+
 2. Customer Payment Preferences
 Card payments made up 67.5% of all transactions, while cash accounted for just 32.5%. This points to a significant leaning toward card usage, possibly due to perceived ease, security, or available rewards.
+![Preference](https://github.com/Temperance-Godwin/NYC-YELLOW-TAXI-ANALYSIS/blob/main/Total%20Percentage%20by%20Payment%20Type.png)
 
-3. Passenger Count Trends
+4. Passenger Count Trends
 Single-passenger trips dominated card payment transactions, making up 40.08% of such payments. For cash payments, solo riders accounted for 20.04%. As the number of passengers increased, the proportion of both card and cash transactions dropped, suggesting that larger groups might prefer other transportation options or payment methods. These patterns underscore the importance of considering both the number of passengers and the payment method when analyzing taxi transaction data.
 
 ## HYPOTHESIS TESTING
