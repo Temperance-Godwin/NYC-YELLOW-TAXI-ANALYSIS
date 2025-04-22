@@ -41,9 +41,10 @@ Customers who paid using credit cards typically had longer trips and higher fare
 
 2. Customer Payment Preferences
 Card payments made up 67.5% of all transactions, while cash accounted for just 32.5%. This points to a significant leaning toward card usage, possibly due to perceived ease, security, or available rewards.
+
 ![Preference](https://github.com/Temperance-Godwin/NYC-YELLOW-TAXI-ANALYSIS/blob/main/Total%20Percentage%20by%20Payment%20Type.png)
 
-3. Passenger Count Trends
+4. Passenger Count Trends
 Single-passenger trips dominated card payment transactions, making up 40.08% of such payments. For cash payments, solo riders accounted for 20.04%. As the number of passengers increased, the proportion of both card and cash transactions dropped, suggesting that larger groups might prefer other transportation options or payment methods. These patterns underscore the importance of considering both the number of passengers and the payment method when analyzing taxi transaction data.
 
 ![Passenger count](https://github.com/Temperance-Godwin/NYC-YELLOW-TAXI-ANALYSIS/blob/main/Passenger%20count%20by%20Payment%20Type.png)
