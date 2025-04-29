@@ -1,6 +1,18 @@
 ## INTRODUCTION
 ![Intro](https://github.com/Temperance-Godwin/NYC-YELLOW-TAXI-ANALYSIS/blob/main/intro.jpg)
-In today’s competitive ride-hailing landscape, leveraging data to boost operational efficiency and revenue has become increasingly important. Taxi services, especially in bustling cities like New York, must continuously explore strategies that enhance driver income while preserving a smooth and satisfying experience for passengers. One often overlooked yet potentially impactful factor is the method of payment used by customers. Understanding how payment choices affect fare values and customer behaviors could help taxi operators make informed decisions that benefit both drivers and riders. This study dives into the dynamics between payment types and fare amounts, aiming to uncover actionable insights through data analysis and hypothesis testing.
+
+Every day, thousands of yellow taxis crisscross the city, transporting locals, tourists, and business travelers. While the city pulses with this constant motion, questions emerge like:
+
+- When are taxis most in demand?
+
+- Which areas generate the highest traffic?
+
+- How long do trips typically last, and how do fares vary?
+
+To make informed decisions about infrastructure, pricing models, traffic policies, and even driver support systems, we need to dig into the data.
+
+As part of the strategic planning team for the New York City Transportation Authority, i stepped into the role of a data analyst tasked with uncovering insights from NYC Yellow Taxi trip data. By exploring patterns in trip duration, pickup and drop-off locations, fare structures, and time-based behaviors, this analysis supports data-driven decisions that can shape the future of urban mobility in New York City.
+
 
 ## PROBLEM STATEMENT
 Increasing revenue is crucial for both long-term sustainability and driver satisfaction. This project seeks to leverage data-driven strategies to optimize earnings for taxi drivers. Specifically, we investigate whether the method of payment influences the fare amount, focusing on the potential link between payment type and total fare.
