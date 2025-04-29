@@ -1,18 +1,11 @@
 ## INTRODUCTION
 ![Intro](https://github.com/Temperance-Godwin/NYC-YELLOW-TAXI-ANALYSIS/blob/main/intro.jpg)
 
-Every day, thousands of yellow taxis crisscross the city, transporting locals, tourists, and business travelers. While the city pulses with this constant motion, questions emerge like:
-
-- When are taxis most in demand?
-
-- Which areas generate the highest traffic?
-
-- How long do trips typically last, and how do fares vary?
+Every day, thousands of yellow taxis crisscross the city, transporting locals, tourists, and business travelers. While the city pulses with this constant motion, questions emerge like when taxes are highest in demand and how long do trips last.
 
 To make informed decisions about infrastructure, pricing models, traffic policies, and even driver support systems, we need to dig into the data.
 
 As part of the strategic planning team for the New York City Transportation Authority, i stepped into the role of a data analyst tasked with uncovering insights from NYC Yellow Taxi trip data. By exploring patterns in trip duration, pickup and drop-off locations, fare structures, and time-based behaviors, this analysis supports data-driven decisions that can shape the future of urban mobility in New York City.
-
 
 ## PROBLEM STATEMENT
 Increasing revenue is crucial for both long-term sustainability and driver satisfaction. This project seeks to leverage data-driven strategies to optimize earnings for taxi drivers. Specifically, we investigate whether the method of payment influences the fare amount, focusing on the potential link between payment type and total fare.
