@@ -30,7 +30,7 @@ This analysis draws on a robust dataset from the New York City Taxi and Limousin
 
 **Regression Analysis:** Applied linear regression to examine the correlation between trip duration (derived from pickup and drop-off times) and fare amount.
 
-View code [here](https://github.com/Temperance-Godwin/NYC-YELLOW-TAXI ANALYSIS/blob/main/NYC%20Yellow%20Taxi%20Analysis.ipynb)
+View code ![here](https://github.com/Temperance-Godwin/NYC-YELLOW-TAXI-ANALYSIS/blob/main/NYC%20Yellow%20Taxi%20Analysis.ipynb)
 
 ## KEY INSIGHTS
 
