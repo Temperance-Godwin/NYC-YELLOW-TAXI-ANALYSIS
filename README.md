@@ -8,20 +8,20 @@ To make informed decisions about infrastructure, pricing models, traffic policie
 As part of the strategic planning team for the New York City Transportation Authority, i stepped into the role of a data analyst tasked with uncovering insights from NYC Yellow Taxi trip data. By exploring patterns in trip duration, pickup and drop-off locations, fare structures, and time-based behaviors, this analysis supports data-driven decisions that can shape the future of urban mobility in New York City.
 
 ## PROBLEM STATEMENT
-Increasing revenue is crucial for both long-term sustainability and driver satisfaction. This project seeks to leverage data-driven strategies to optimize earnings for taxi drivers. Specifically, we investigate whether the method of payment influences the fare amount, focusing on the potential link between payment type and total fare.
+Increasing revenue is crucial for both long-term sustainability and driver satisfaction. This project seeks to leverage data-driven strategies to optimize earnings for taxi drivers. Specifically, investigations were made to check whether the method of payment influences the fare amount, focusing on the potential link between payment type and total fare.
 
 ## RESEARCH QUESTIONS
 1. Is there a significant relationship between the total fare paid and the type of payment used?
 2. Can customer behavior be influenced to prefer higher-revenue payment options without reducing customer satisfaction?
    
 ## OBJECTIVE
-The primary aim of this project is to conduct an A/B test to assess whether there's a meaningful difference in fare amounts based on the customer's payment method. By using Python for statistical hypothesis testing and descriptive analytics, we aim to uncover trends that can help drivers optimize their income. Specifically, the focus is on comparing credit card payments to cash payments to determine if one consistently results in higher fares.
+The primary aim of this project is to conduct an A/B test to assess whether there's a meaningful difference in fare amounts based on the customer's payment method. By using Python for statistical hypothesis testing and descriptive analytics, the aim is to uncover trends that can help drivers optimize their income. Specifically, the focus is on comparing credit card payments to cash payments to determine if one consistently results in higher fares.
 
 ## DATA SOURCE
 Kaggle: Check data [here](https://www.kaggle.com/datasets/elemento/nyc-yellow-taxi-trip-data)
 
 ## DATA OVERVIEW
-This analysis draws on a robust dataset from the New York City Taxi and Limousine Commission, containing detailed records of taxi trips. After applying data cleaning techniques and performing feature engineering, we isolated the essential variables needed for this investigation, including fare amount, payment type, trip duration, and passenger count.
+This analysis draws on a robust dataset from the New York City Taxi and Limousine Commission, containing detailed records of taxi trips. After applying data cleaning techniques and performing feature engineering, i isolated the essential variables needed for this investigation, including fare amount, payment type, trip duration, and passenger count.
 
 ## METHODOLOGY
 **Descriptive Statistics:** Used to summarize and visualize key variables such as fare amount and payment method distribution.
